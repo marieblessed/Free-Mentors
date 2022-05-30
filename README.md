@@ -1,5 +1,5 @@
 # Free-Mentors
-[![Test Coverage](https://api.codeclimate.com/v1/badges/86bbfd6fc9abdd1ab411/test_coverage)](https://codeclimate.com/github/marieblessed/Free-Mentors/test_coverage) [![Coverage Status](https://coveralls.io/repos/github/marieblessed/Free-Mentors/badge.svg?branch=develop)](https://coveralls.io/github/marieblessed/Free-Mentors?branch=develop)
+[![Maintainability](https://api.codeclimate.com/v1/badges/86bbfd6fc9abdd1ab411/maintainability)](https://codeclimate.com/github/marieblessed/Free-Mentors/maintainability)[![Test Coverage](https://api.codeclimate.com/v1/badges/86bbfd6fc9abdd1ab411/test_coverage)](https://codeclimate.com/github/marieblessed/Free-Mentors/test_coverage) [![Coverage Status](https://coveralls.io/repos/github/marieblessed/Free-Mentors/badge.svg?branch=develop)](https://coveralls.io/github/marieblessed/Free-Mentors?branch=develop)
 
 ## Project Description
 We offer free professional training to the youth.
