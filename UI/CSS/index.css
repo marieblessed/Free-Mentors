@@ -1,0 +1,72 @@
+/* Add a black background colour to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+/* Style the links inside the top navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+background-color: aqua;
+}
+.topnav a.active {
+    background-color: greenyellow;
+}
+.red-btn a {
+    color: grey;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding-top: 20px;
+    
+}
+.red-btn {
+    height: 60px;
+    font: Arial;
+    overflow: hidden;
+    width: 200px;
+    background-color: red;
+    border-radius: 43px;
+    margin: 25px 490px ;
+}
+.green-btn a {
+color: yellow;
+text-decoration: none;
+text-align: center;
+display: block;
+padding-top: 20px;
+}
+ 
+.green-btn{
+    height: 60px;
+    font: Arial;
+    overflow: hidden;
+    width: 200px;
+    background-color: blueviolet;
+    border-radius: 43px;
+    margin: 5px 500px;
+    margin-bottom: 25px;
+}
+.pink-btn a {
+    color: pink;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding-top: 20px;
+}
+
+.pink-btn{
+    height: 60px;
+    font: Arial;
+    overflow: hidden;
+    width: 200px;
+    background-color: olivedrab;
+    border-radius: 43px;
+    margin: 5px 500px;
+}
